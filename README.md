@@ -1,2 +1,2 @@
-# GazeiloRMiz.github.io
+# Gazeilo RMiz
 Site project
